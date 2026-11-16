@@ -1,1 +1,1 @@
-bash git push origin main
+https://github.com/Elcovaa81-hash/ono-tebe-nado-ad/tree/main
